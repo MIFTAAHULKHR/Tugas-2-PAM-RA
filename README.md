@@ -1,6 +1,5 @@
-Nama   : Miftahul Khoiriyah
-Nim    : 123140064
-Kelas  : RA
+Nama   : Miftahul Khoiriyah (123140064)
+
 
 Bukti Output : 
 
