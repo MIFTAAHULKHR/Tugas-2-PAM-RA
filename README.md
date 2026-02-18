@@ -1,7 +1,7 @@
 Nama   : Miftahul Khoiriyah (123140064)
 
 
-Bukti Output : 
+Bukti Output : ![Output Tugas 2](OutputTUgas2.png)
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
